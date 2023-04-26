@@ -1,0 +1,24 @@
+{
+  "name": "Tabla periodicas",
+  "short_name": "Tabla periodica",
+  "descripcion": "Tabla periodica de los elementos quimicos",
+  "theme_color": "red",
+  "background_color": "#ffffff",
+    "display": "fullscreen",
+  "orientation": "landscape",
+  "scope": "https://tablaperiodicaithisc.netlify.app/",
+  "start_url": "https://tablaperiodicaithisc.netlify.app/index.html",
+  "lang": "es-CO",
+  "icons": [
+    {
+        "src": "https://tablaperiodicaithisc.netlify.app/icon.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+    {
+      "src": "https://tablaperiodicaithisc.netlify.app/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
