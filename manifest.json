@@ -1,14 +1,14 @@
 {
   "name": "Tabla periodica",
   "short_name": "Tabla periodica",
-  "descripcion": "Tabla periodica de los elementos quimicos",
-  "theme_color": "red",
+  "Descripcion": "Tabla periodica de los elementos quimicos",
+  "theme_color": "#ffffff",
   "background_color": "#ffffff",
-    "display": "fullscreen",
+  "display": "standalone",
   "orientation": "landscape",
   "scope": "https://quimicainteractiva.netlify.app/",
   "start_url": "https://quimicainteractiva.netlify.app/",
-  "lang": "es-CO",
+  "lang": "es-Mx",
   "icons": [
     {
         "src": "https://quimicainteractiva.netlify.app/icon.png",
@@ -16,7 +16,7 @@
         "type": "image/png"
       },
     {
-      "src": "https://quimicainteractiva.netlify.app/icon.png",
+      "src": "https://quimicainteractiva.netlify.app//icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }

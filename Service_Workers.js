@@ -1,9 +1,12 @@
 const CACHE_NAME = 'tablaPeriodica',
   urlsToCache = [
     'https://quimicainteractiva.netlify.app/',
-    'https://quimicainteractiva.netlify.app/tablaperiodica',
-    'https://quimicainteractiva.netlify.app/db/elements.json',
-    'https://quimicainteractiva.netlify.app/db/quizz.json'
+    'https://quimicainteractiva.netlify.app/index.html',
+    './css/style.css',
+    'https://quimicainteractiva.netlify.app/regist_serviceWorker.js',
+    'https://quimicainteractiva.netlify.app/icon.png',
+    './js/app.js',
+    'https://quimicainteractiva.netlify.app/db/elements.json'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos

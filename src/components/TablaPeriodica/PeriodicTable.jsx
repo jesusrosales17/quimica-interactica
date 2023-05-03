@@ -33,61 +33,65 @@ const PeriodicTable = ({ atomicElements, setElementSelected }) => {
           </button>
         )}
       </div>
-      <Container className={`row mt-5  header`} cols={19}>
-        {array1.map((i) => (
-          <Button
-            type={"grupo"}
+      <Row>
+        <Container className={`row mt-5  header`} cols={19}>
+          {array1.map((i) => (
+            <Button
+              type={"grupo"}
+              setIsFilter={setIsFilter}
+              setFilter={setFilter}
+              number={i}
+              key={i}
+              filter={filter}
+            />
+          ))}
+          <Nomenclatura
             setIsFilter={setIsFilter}
             setFilter={setFilter}
-            number={i}
-            key={i}
-            filter={filter}
-          />
-        ))}
-        <Nomenclatura
-          setIsFilter={setIsFilter}
-          setFilter={setFilter}
-          filter={filter}
-          isFilter={isFilter}
-        />
-        {atomicElements[0].map((element) => (
-          <PeriodicTableElement
-            setElementSelected={setElementSelected}
-            key={element.id}
-            element={element}
-            isHeader={true}
             filter={filter}
             isFilter={isFilter}
           />
-        ))}
+          {atomicElements[0].map((element) => (
+            <PeriodicTableElement
+              setElementSelected={setElementSelected}
+              key={element.id}
+              element={element}
+              isHeader={true}
+              filter={filter}
+              isFilter={isFilter}
+            />
+          ))}
 
-        {array2.map((i) => (
-          <Button
-            type={"periodo"}
-            setIsFilter={setIsFilter}
-            setFilter={setFilter}
-            number={i}
-            key={i}
-            filter={filter}
-          />
-        ))}
-      </Container>
+          {array2.map((i) => (
+            <Button
+              type={"periodo"}
+              setIsFilter={setIsFilter}
+              setFilter={setFilter}
+              number={i}
+              key={i}
+              filter={filter}
+            />
+          ))}
+        </Container>
 
-      <Container className="row mt-3" cols={14}>
-        {atomicElements[1].map((element) => (
-          <PeriodicTableElement
-            key={element.id}
-            element={element}
-            filter={filter}
-            isFilter={isFilter}
-            setElementSelected={setElementSelected}
-          />
-        ))}
-      </Container>
+        <Container className="row mt-3" cols={14}>
+          {atomicElements[1].map((element) => (
+            <PeriodicTableElement
+              key={element.id}
+              element={element}
+              filter={filter}
+              isFilter={isFilter}
+              setElementSelected={setElementSelected}
+            />
+          ))}
+        </Container>
+      </Row>
     </>
   );
 };
-
+const Row = styled.div` 
+overflow-x: auto;
+`;
 const Container = styled.div`
   box-sizing: border-box;
   display: grid;
