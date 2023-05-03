@@ -1,22 +1,22 @@
 {
-  "name": "Tabla periodicas",
+  "name": "Tabla periodica",
   "short_name": "Tabla periodica",
   "descripcion": "Tabla periodica de los elementos quimicos",
   "theme_color": "red",
   "background_color": "#ffffff",
     "display": "fullscreen",
   "orientation": "landscape",
-  "scope": "https://tablaperiodicaithisc.netlify.app/",
-  "start_url": "https://tablaperiodicaithisc.netlify.app/index.html",
+  "scope": "https://quimicainteractiva.netlify.app/",
+  "start_url": "https://quimicainteractiva.netlify.app/",
   "lang": "es-CO",
   "icons": [
     {
-        "src": "https://tablaperiodicaithisc.netlify.app/icon.png",
+        "src": "https://quimicainteractiva.netlify.app/icon.png",
         "sizes": "144x144",
         "type": "image/png"
       },
     {
-      "src": "https://tablaperiodicaithisc.netlify.app/icon.png",
+      "src": "https://quimicainteractiva.netlify.app/icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }

@@ -13,8 +13,17 @@ const Header = () => {
     case "/": 
       title = "Aplicación de quimica interactiva";
       break;
+    case "/ahorcado":
+      title = "Juego del ahorcado"
+      break;
     case "/tablaperiodica":
       title = "Tabla Periodica";
+      break;
+    case "/memoria":
+      title = "Juego de memoria";
+      break;
+    case "/quiz":
+      title = "Juego de Quiz"
       break;
   } 
 

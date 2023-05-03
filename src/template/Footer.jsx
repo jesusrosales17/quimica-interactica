@@ -3,7 +3,8 @@ import styled from "styled-components";
 const Footer = () => {
   return (
     <>
-      <footer className="row mt-4">
+    
+      <footer className="row mt-4 ">
         <p className="text-center">
           Derechos reservados &copy; Tecnm Ith{" "}
           <Span
@@ -14,9 +15,13 @@ const Footer = () => {
             Integrantes...
           </Span>
         </p>
+        
+
+
+
 
         <div
-          className="modal fade"
+          className="modal fade "
           id="informacionEquipo"
           tabIndex="-1"
           aria-labelledby="exampleModalLabel"

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es el elemento químico más abundante en el universo?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Hidrógeno",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Helio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Carbono",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Oxígeno",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál es el elemento químico más pesado?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Uranio",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Plutonio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Oro",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Mercurio",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "¿Qué elemento químico es utilizado en la fabricación de baterías?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Litio",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Sodio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Potasio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Calcio",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "¿Qué elemento químico es utilizado en la fabricación de lentes?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Vidrio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Plástico",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Cuarzo",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Grafito",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál es el elemento químico utilizado en la refrigeración de los sistemas de refrigeración y aire acondicionado?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Amoníaco",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Dióxido de carbono",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Freón",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Metano",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "¿Cuál es el elemento químico utilizado para la creación de fuegos artificiales?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Hierro",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Magnesio",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Cobre",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Plomo",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "¿Qué elemento químico es utilizado para la creación de lámparas fluorescentes?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Mercurio",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Sodio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Potasio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Cobre",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "¿Cuál es el elemento químico que tiene el número atómico más bajo?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Hidrógeno",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Helio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Litio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Carbono",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "¿Qué elemento químico es utilizado en la fabricación de espejos?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Plata",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Cobre",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Aluminio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Oro",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "¿Qué elemento químico se utiliza para la fabricación de baterías?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Hierro",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Cobre",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Litio",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Carbono",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál es el elemento químico más común en el cuerpo humano?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Hierro",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Oxígeno",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Calcio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Hidrógeno",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "¿Cuál es el elemento químico utilizado en la fabricación de lentes para gafas?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Plata",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Cobre",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Cuarzo",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Oro",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "¿Cuál es el elemento químico que se utiliza para el almacenamiento de energía nuclear en los reactores nucleares?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Uranio",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Plutonio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Cesio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Cobalto",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "¿Qué elemento químico se utiliza como principal componente de la sal común?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Cloro",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Sodio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Potasio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Magnesio",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál es el elemento químico utilizado como gas de protección en la soldadura?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Hidrógeno",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Helio",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Nitrógeno",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Argón",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "¿Cuál es el elemento químico utilizado como combustible en las centrales nucleares?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Uranio",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Hidrógeno",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Plutonio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Cesio",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "¿Cuál es el elemento químico que se utiliza como refrigerante en los motores de combustión interna?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Hidrógeno",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Helio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Nitrógeno",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Agua",
+        "isCorrect": true,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál es el elemento químico utilizado como material refractario en los hornos de alta temperatura?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Oro",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Hierro",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Cobre",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Grafito",
+        "isCorrect": true,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál es el elemento químico utilizado como material semiconductor en la fabricación de microprocesadores?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Plata",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Cobre",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Silicio",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Oro",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "¿Cuál es el elemento químico que se utiliza como combustible en los mecheros de gas?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Metano",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Butano",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Propano",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Etileno",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Nitrógeno",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Oxígeno",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Dióxido de carbono",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Argón",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "¿Cuál es el nombre del ácido presente en el vinagre?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Ácido sulfúrico",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Ácido clorhídrico",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Ácido acético",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Ácido nítrico",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "¿Qué tipo de reacción química se produce cuando se mezclan un ácido y una base?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Reacción de oxidación-reducción",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Reacción de descomposición",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Reacción de neutralización",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Reacción de síntesis",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "¿Qué elemento químico es utilizado en las lámparas fluorescentes?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Mercurio",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Argón",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Kriptón",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Neón",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "¿Cuál es la fórmula química del agua?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "H2O",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "CO2",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "NaCl",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "NH3",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "¿Cuál es el número atómico del carbono?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "6",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "7",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "8",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "9",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "¿Cuál es el símbolo químico del hierro?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Ir",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Fe",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "He",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Au",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es el átomo más liviano?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Hidrógeno",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Helio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Litio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Carbono",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "¿Cuál es la molécula que se produce en la respiración celular y se utiliza para generar energía?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Ácido láctico",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Ácido pirúvico",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Ácido acético",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Ácido cítrico",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "¿Cuál es la fórmula química del agua oxigenada?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "H2O2",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "HO2",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "H2O",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "H3O",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "¿Cuál es la principal función del ATP en las células?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Transporte de oxígeno",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Almacenamiento de energía",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Síntesis de proteínas",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Regulación de la temperatura corporal",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "¿Cuál es el proceso mediante el cual las plantas convierten la luz solar en energía?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Respiración celular",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Fotosíntesis",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Fermentación",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Digestión",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "¿Cuál es el compuesto orgánico más abundante en los seres vivos?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Proteínas",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Ácidos nucleicos",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Carbohidratos",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Lípidos",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "¿Qué tipo de enlace químico se forma entre dos átomos de cloro?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Enlace covalente polar",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Enlace covalente no polar",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Enlace iónico",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Enlace metálico",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "¿35. ¿Cuál es la principal función de los riñones en el cuerpo humano?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Regular la temperatura corporal",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Producir hormonas",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Eliminar desechos y exceso de agua del cuerpo",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Transportar oxígeno a los tejidos",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "¿Qué tipo de reacción química se produce cuando se quema un trozo de papel?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Reacción de neutralización",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Reacción de combustión",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Reacción de síntesis",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Reacción de descomposición",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "¿Qué es el pH?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "La cantidad de protones en un átomo",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "La concentración de iones hidrógeno en una solución",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "La cantidad de electrones en un átomo",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "La capacidad de un ácido para disolver un compuesto",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Oxígeno",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Hierro",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Aluminio",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Calcio",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "¿Qué tipo de energía se encuentra almacenada en un resorte comprimido?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Energía térmica",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Energía cinética",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Energía potencial elástica",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Energía química",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "¿Cuál es el proceso mediante el cual se produce la fotosíntesis?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Absorción de luz por parte de las plantas",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Reacciones químicas en las células de las plantas que convierten la energía solar en energía química",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Intercambio de gases entre la planta y el aire",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Transporte de nutrientes desde las raíces hasta las hojas",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "¿Qué elemento químico es el principal componente del diamante?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Oxígeno",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Carbono",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Hierro",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Plata",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "¿Qué es un átomo?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "La partícula más pequeña de un compuesto",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "La partícula más pequeña de una sustancia",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "La unidad básica de la materia compuesta por protones, neutrones y electrones",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Un conjunto de moléculas unidas por enlaces químicos",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "¿Qué elemento químico se utiliza en la fabricación de bombillas?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Cobre",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Plata",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Hierro",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Wolframio (Tungsteno)",
+        "isCorrect": true,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "¿Qué tipo de reacción química implica la unión de dos o más elementos para formar un compuesto?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Reacción de oxidación",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Reacción de descomposición",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Reacción de síntesis",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Reacción de combustión",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "¿Qué es un ácido?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Una sustancia que acepta electrones",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Una sustancia que dona electrones",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Una sustancia que libera iones de hidrógeno (H+) en agua",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Una sustancia que produce un cambio de color en un indicador",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "¿Cuál es la fórmula química del agua?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "H2SO4",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "NaCl",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "H2O",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "CO2",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "¿Cuál es el proceso químico mediante el cual el cuerpo obtiene energía a partir de los alimentos?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Digestión",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Fotosíntesis",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Respiración celular",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Fermentación",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "¿Cuál es el elemento químico más abundante en la Tierra?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Oxígeno",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Nitrógeno",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "Hierro",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Carbono",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "¿Qué es la densidad en química?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "La cantidad de masa por unidad de volumen",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "La cantidad de volumen por unidad de masa",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "La cantidad de átomos por unidad de masa",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "La cantidad de electrones por unidad de volumen",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "¿Qué es un átomo?",
+    "resps": [
+      {
+        "id": 1,
+        "resp": "Una molécula",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 2,
+        "resp": "Una partícula subatómica",
+        "isCorrect": false,
+        "isSelected": false
+      },
+      {
+        "id": 3,
+        "resp": "La unidad básica de la materia",
+        "isCorrect": true,
+        "isSelected": false
+      },
+      {
+        "id": 4,
+        "resp": "Un ion cargado positivamente",
+        "isCorrect": false,
+        "isSelected": false
+      }
+    ]
+  }
+]

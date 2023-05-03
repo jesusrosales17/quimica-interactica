@@ -3,6 +3,7 @@ import PeriodicTableElement from "./PeriodicTableElement";
 import styled from "styled-components";
 import Button from "./Button";
 import Nomenclatura from "./Nomenclatura";
+import { Link } from "react-router-dom";
 
 const PeriodicTable = ({ atomicElements, setElementSelected }) => {
   const array1 = new Array(18);
@@ -18,8 +19,9 @@ const PeriodicTable = ({ atomicElements, setElementSelected }) => {
 
   return (
     <>
-      {filter && (
-        <div className="text-end mt-3">
+      <div className="d-flex justify-content-between mt-3">
+        <Link to="/" className="btn btn-outline-primary">Regresar</Link>
+        {filter && (
           <button
             className="btn btn-outline-primary"
             onClick={() => {
@@ -29,12 +31,9 @@ const PeriodicTable = ({ atomicElements, setElementSelected }) => {
           >
             Restablecer
           </button>
-        </div>
-      )}
-      <Container
-        className={`row mt-5  header`}
-        cols={19}
-      >
+        )}
+      </div>
+      <Container className={`row mt-5  header`} cols={19}>
         {array1.map((i) => (
           <Button
             type={"grupo"}
@@ -45,7 +44,12 @@ const PeriodicTable = ({ atomicElements, setElementSelected }) => {
             filter={filter}
           />
         ))}
-        <Nomenclatura setIsFilter={setIsFilter} setFilter={setFilter} filter={filter} isFilter={isFilter} />
+        <Nomenclatura
+          setIsFilter={setIsFilter}
+          setFilter={setFilter}
+          filter={filter}
+          isFilter={isFilter}
+        />
         {atomicElements[0].map((element) => (
           <PeriodicTableElement
             setElementSelected={setElementSelected}
