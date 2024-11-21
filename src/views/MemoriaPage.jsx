@@ -32,6 +32,7 @@ export const MemoriaPage = () => {
         for(let i = 0; i < numbers.length; i++) {
           const elementAtomic = allElements.filter(element => element.id === numbers[i]);
           elements.push({
+            
             idElement: elements.length + 1,
             data: elementAtomic,
             isSelected: false,
